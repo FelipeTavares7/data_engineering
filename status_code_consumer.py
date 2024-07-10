@@ -1,3 +1,4 @@
+# Event Driven Architecture on localhost - Consumer Side
 import socket
 
 host = 'localhost'
