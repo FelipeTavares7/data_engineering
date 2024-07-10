@@ -22,3 +22,4 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             print(f"Received server error status code: {status_code}")
         else:
             print(f"Received unknown status code: {status_code}")
+            
